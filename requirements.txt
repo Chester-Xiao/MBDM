@@ -1,0 +1,8 @@
+ema_workbench
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+networkx
+multiprocessing
